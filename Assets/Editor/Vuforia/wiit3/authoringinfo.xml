@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-40.9541 -10.5273 4.5869 -5.6498 -2.4435 44.8856" area="153" targetId="a73232d25f764799b14e23dd27aff146" name="wiit3" pathAuthoring="a73232d25f764799b14e23dd27aff146_authoring.glb" pathOcclusion="a73232d25f764799b14e23dd27aff146_occlusion.3dt" pathNavMesh="a73232d25f764799b14e23dd27aff146_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

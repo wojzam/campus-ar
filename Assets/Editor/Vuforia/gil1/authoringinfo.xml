@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="105.5705 -7.6902 -79.7730 122.0156 1.6385 -54.3802" area="96" targetId="d01bce1b70bc4bbd9863eb7229a2a73d" name="gil1" pathAuthoring="d01bce1b70bc4bbd9863eb7229a2a73d_authoring.glb" pathOcclusion="d01bce1b70bc4bbd9863eb7229a2a73d_occlusion.3dt" pathNavMesh="d01bce1b70bc4bbd9863eb7229a2a73d_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
