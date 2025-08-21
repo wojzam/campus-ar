@@ -1,5 +1,5 @@
 # 📱 Campus AR
-Augmented Reality Navigation App for the Cracow University of Technology
+AR navigation app for the campus of the Cracow University of Technology. Developed in Unity with AR Foundation, ARCore, and Vuforia to deliver real-time indoor and outdoor navigation with AR overlays
 
 ## Overview
 **Campus AR** is an Android application developed as part of my Master of Science thesis in Computer Science.  
